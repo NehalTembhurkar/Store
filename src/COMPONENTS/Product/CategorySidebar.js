@@ -26,26 +26,6 @@ const CategorySidebar = () => {
             id: 4,
             categoryimage: img4,
             categoryname: 'Category 4'
-        },
-        {
-            id: 5,
-            categoryimage: img1,
-            categoryname: 'Category 5'
-        },
-        {
-            id: 6,
-            categoryimage: img2,
-            categoryname: 'Category 6'
-        },
-        {
-            id: 7,
-            categoryimage: img3,
-            categoryname: 'Category 7'
-        },
-        {
-            id: 8,
-            categoryimage: img4,
-            categoryname: 'Category 8'
         }
     ]
     return (
